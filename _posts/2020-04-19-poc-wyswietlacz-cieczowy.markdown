@@ -5,6 +5,8 @@ date:   2020-04-19 12:00:00 +0200
 tags:   programming projects
 ---
 
+![Przykład](/assets/Liquid-1024x565.png)
+
 Wyobraźmy sobie, że mamy przezroczystą rurkę, którą możemy ukształtować w dowolny sposób, oraz porcje cieczy i
 powietrza, które możemy dozować do rurki w precyzyjny sposób. Dzięki temu można tworzyć przeróżne wzory, które ukazują
 się naszym oczom dopiero gdy ciecz i powietrze dotrą na swoje końcowe pozycje.
